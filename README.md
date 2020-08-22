@@ -11,18 +11,12 @@ Proffy
   <a href="#computer-iniciando-projeto-web">Iniciando Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
 </p>
 
-<h1 align="center">Desktop</h1>
+<h1 align="center"> Desktop | Mobile </h1>
 
 <h1 align="center">       
-     <img alt="" src="https://media1.giphy.com/media/Q7S85hMsZCzfVK0WCq/giphy.gif" />
+   <img alt="" src="https://media1.giphy.com/media/Q7S85hMsZCzfVK0WCq/giphy.gif" />
+   <img alt="" src="https://media0.giphy.com/media/ftpwNC51ZL72OyaIKH/giphy.gif" />
 </h1>
-
-<h1 align="center">Mobile</h1>
-
-<h1 align="center">       
-     <img alt="" src="https://media0.giphy.com/media/ftpwNC51ZL72OyaIKH/giphy.gif" />
-</h1>
-
 
 ## :page_with_curl: Sobre
 Este repositório contém um sistema baseado em arquitetura RESTFULL API desenvolvido com Node.js no back-end, e no frontend para web foi utilizado o React, e para o mobile o React Native. Para a persistência de dados, foi utilizado o SQLite.
